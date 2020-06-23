@@ -137,13 +137,7 @@ header {
   flex-wrap: wrap;
   
 }  
-  
-  /* Tetapkan nilai width dari .flex-list li ke 50% */
-  .flex-list li{
-    width: 50%
   }
-  
-}
 
 .lesson-wrapper {
   height: auto;
