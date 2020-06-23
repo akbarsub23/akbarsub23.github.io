@@ -120,24 +120,6 @@ header {
   font-weight: bold;
 }
 
-.flex-list{
-  display: flex;
-}
-
-.flex-list li{
-  flex: auto;
-  flex-wrap: wrap;
-}
-
-/* Layout untuk Tablet */
-/* Tetapkan media queries dengan breakpoint sebagai 1000px dan lebih kecil */
-@media (max-width: 1000px) {
-  /* Tetapkan flex-wrap milik .flex-list */
-.flex-list {
-  flex-wrap: wrap;
-  
-}  
-  }
 
 .lesson-wrapper {
   height: auto;
