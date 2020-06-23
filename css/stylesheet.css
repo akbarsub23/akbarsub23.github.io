@@ -112,10 +112,15 @@ header {
   font-weight: bold;
 }
 
+
 .header-right a:hover {
   text-decoration: none;
   color: red;
   font-weight: bold;
+}
+
+.flex-list{
+  display: flex;
 }
 
 .lesson-wrapper {
